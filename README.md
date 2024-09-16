@@ -22,8 +22,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminulhr)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aminulhr)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminulhr&show_icons=true)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aminulhr/contributions?format=svg&private=false)
