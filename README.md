@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminulhr&show_icons=true&locale=en" alt="aminulhr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminulhr&" alt="aminulhr" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aminulhr/contributions?format=svg&private=false)
