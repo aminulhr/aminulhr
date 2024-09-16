@@ -1,24 +1,12 @@
 ![Web developer](https://media.licdn.com/dms/image/v2/D5616AQG43y80BmPJkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726493818587?e=1732147200&v=beta&t=rK09Uz9gKKEfK91hoWIwRAQ-ueWGTMR4tOFhsA-8CEE)
-### Hi there 👋, This is Aminul Haque Rana
-#### Web developer
+                                                ### Hi there 👋, This is Aminul Haque Rana
+                      #### Passionate Web Developer | Crafting Clean, Efficient Code for Modern Web Solutions
 
 
 **About Me**
-
-I’m a passionate Frontend Web Developer with a keen eye for detail and a love for turning ideas into dynamic, user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, along with modern frameworks like React, I specialize in creating responsive and visually appealing websites that perform seamlessly across devices. 
-
-Driven by a desire to continuously improve and stay updated with the latest technologies, I thrive on solving problems and crafting clean, efficient code that enhances user interaction. Whether it’s building from scratch or optimizing existing projects, I’m dedicated to delivering high-quality web solutions that meet both client needs and user expectations. 
-
-Let’s create something amazing together!
-
-Skills:  REACT / JS / HTML / CSS
-
-- 🌱 I’m currently learning TypeScript, Express, Mongoose,Redis, Redux, Next.js, DBMS, SQL, PostgreSQL, AWS, Docker, Unit Testing and many more. 
-- 👯 I’m looking to collaborate on innovative web development projects, especially those involving frontend technologies like React  
-- 🤔 I’m looking for help with exploring backend development and expanding my skills in full-stack development. 
-- 💬 Ask me about  frontend best practices, responsive design, or optimizing web performance. 
+- 🌱 I’m currently learning TypeScript, Express, Mongoose,Redis, Redux, Next.js, DBMS. 
+- 👯 I’m looking to collaborate on innovative web development projects.
 - 📫 How to reach me: Email: aminulhaquerana1@gmail.com 
-- 😄 Pronouns: dev-rana 
 - ⚡ Fun fact: I'm a huge fan of clean code, and I find debugging just as satisfying as solving a puzzle! 
 
 
