@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Web Developer | Crafting Clean, Efficient Code for Modern Web Solutions </h3>
 
 
-**<h2> About Me </h2>**
+**<h2>🙋‍♂️ About Me </h2>**
 - 🌱 I’m currently learning TypeScript, Express, Mongoose,Redis, Redux, Next.js, DBMS. 
 - 👯 I’m looking to collaborate on innovative web development projects.
 - 📫 How to reach me: Email: aminulhaquerana1@gmail.com 
