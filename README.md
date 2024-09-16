@@ -2,13 +2,15 @@
 <h1 align="center"> Hi there 👋, This is Aminul Haque Rana </h1>
 <h3 align="center">Passionate Web Developer | Crafting Clean, Efficient Code for Modern Web Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulhr&label=Profile%20views&color=0e75b6&style=flat" alt="aminulhr" /> </p>
+
 
 ### 🙋‍♂️ About Me 
 - 🌱 I’m currently learning TypeScript, Express, Mongoose, Redis, Redux, Next.js, DBMS.
 - 👯 I’m looking to collaborate on innovative web development projects.
 - 📫 How to reach me: Email: aminulhaquerana1@gmail.com
 - ⚡ Fun fact: I'm a huge fan of clean code, and I find debugging just as satisfying as solving a puzzle!
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulhr&label=Profile%20views&color=0e75b6&style=flat" alt="aminulhr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminulhr" alt="aminulhr" /></a> </p>
 
