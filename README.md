@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aminul Haque Rana</h1>
+![Web developer](https://media.licdn.com/dms/image/v2/D5616AQG43y80BmPJkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726493818587?e=1732147200&v=beta&t=rK09Uz9gKKEfK91hoWIwRAQ-ueWGTMR4tOFhsA-8CEE)
+<h1 align="center"> Hi there 👋, This is Aminul Haque Rana </h1>
 <h3 align="center">Passionate Web Developer | Crafting Clean, Efficient Code for Modern Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulhr&label=Profile%20views&color=0e75b6&style=flat" alt="aminulhr" /> </p>
