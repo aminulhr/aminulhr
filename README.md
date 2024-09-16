@@ -18,12 +18,23 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/aminulhr)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aminulhr)  
+<div style="margin: 0; padding: 0; font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f4f4f4;">
+        <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+            <div style="flex: 1;">
+                <img src="https://streak-stats.demolab.com/?user=aminulhr" alt="GitHub streak stats" style="max-width: 100%; height: auto;">
+            </div>
+            <div style="flex: 1;">
+                <a href="https://github.com/anuraghazra/github-readme-stats">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulhr" alt="Top Langs" style="max-width: 100%; height: auto;">
+                </a>
+            </div>
+        </div>
+    </div>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aminulhr)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminulhr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminulhr&show_icons=true)  
 
