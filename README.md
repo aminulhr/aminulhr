@@ -10,7 +10,7 @@
 - 📫 How to reach me: Email: aminulhaquerana1@gmail.com
 - ⚡ Fun fact: I'm a huge fan of clean code, and I find debugging just as satisfying as solving a puzzle!
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulhr&label=Profile%20views&color=0e75b6&style=flat" alt="aminulhr" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulhr&label=Profile%20views&color=0e75b6&style=flat" alt="aminulhr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminulhr" alt="aminulhr" /></a> </p>
 
@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminulhr&show_icons=true&locale=en" alt="aminulhr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminulhr&" alt="aminulhr" /></p>
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/aminulhr/contributions?format=svg&private=false)
