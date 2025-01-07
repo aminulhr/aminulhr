@@ -54,10 +54,7 @@
   </a>
 </p>
 
-<p>
-  <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=aminulhr" alt="aminulhr" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aminulhr&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 
 
