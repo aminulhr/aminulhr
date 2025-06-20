@@ -1,4 +1,4 @@
-![Web developer](https://media.licdn.com/dms/image/v2/D5616AQG43y80BmPJkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726493818587?e=1732147200&v=beta&t=rK09Uz9gKKEfK91hoWIwRAQ-ueWGTMR4tOFhsA-8CEE)
+![Web developer](https://media.licdn.com/dms/image/v2/D5616AQEQTV-4MxN2rA/profile-displaybackgroundimage-shrink_350_1400/B56ZeOvm8NGoAc-/0/1750446536544?e=1755734400&v=beta&t=Mner_3BzUq42UCN-aoxmjqCxo2B9rboUV6iLbblmJn4)
 
 
 <h3 align="center">A Passionate Web Developer | Crafting Clean, Efficient Code for Modern Web Solutions</h3>
