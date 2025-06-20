@@ -1,12 +1,10 @@
 ![Web developer](https://media.licdn.com/dms/image/v2/D5616AQEQTV-4MxN2rA/profile-displaybackgroundimage-shrink_350_1400/B56ZeOvm8NGoAc-/0/1750446536544?e=1755734400&v=beta&t=Mner_3BzUq42UCN-aoxmjqCxo2B9rboUV6iLbblmJn4)
 
-![link](https://github.com/aminulhr/aminulhr/blob/main/Banner.gif)
-
-
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <h1 style="margin: 0;">Hi there 👋 I'm</h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&vCenter=true&width=370&lines=Aminul+Haque+Rana;Front-end+Developer;MERN-Stark+Developer" alt="Typing SVG" /></a>
 </div>
+## Welcome to my GitHub profile! 👋
 
 ### 🙋‍♂️ About Me 
 - 🌱 I’m currently learning TypeScript, Express, Mongoose, Redis, Redux, Next.js, DBMS.
