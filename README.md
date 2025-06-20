@@ -8,7 +8,7 @@
 ## Welcome to my GitHub profile! 👋
 
 
-  <img align="right" alt="Coding" width="280" src="https://https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
   
 
 ### 🙋‍♂️ About Me 
