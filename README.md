@@ -4,6 +4,7 @@
   <h1 style="margin: 0;">Hi there 👋 I'm</h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&vCenter=true&width=370&lines=Aminul+Haque+Rana;Front-end+Developer;MERN-Stark+Developer" alt="Typing SVG" /></a>
 </div>
+
 ## Welcome to my GitHub profile! 👋
 
 ### 🙋‍♂️ About Me 
