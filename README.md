@@ -14,6 +14,8 @@
 - 👯 I’m looking to collaborate on innovative web development projects.
 - ⚡ Fun fact: I'm a huge fan of clean code, and I find debugging just as satisfying as solving a puzzle!
 
+- 
+
 <h3 align="left">🚀 Explored Technologies</h3>
 <p>
   <a href="https://skillicons.dev">
