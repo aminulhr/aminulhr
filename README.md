@@ -73,4 +73,5 @@
 </p>
 
 ## 🐍 My GitHub Contribution Snake
-![snake gif](https://github.com/aminulhr/aminulhr/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/aminulhr/aminulhr/output/github-snake-dark.svg)
+
