@@ -8,7 +8,7 @@
 ## Welcome to my GitHub profile! 👋
 
 
-  <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="Coding" width="280" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzdzBnZXhvdTlnZjI4emlsNGlhMXczOTlyMWt3MHp0YXE3Z2JkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif)">
   
 
 ### 🙋‍♂️ About Me 
