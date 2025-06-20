@@ -72,8 +72,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminulhr&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-## 🐍 My GitHub Contribution Snake
-![snake gif](https://raw.githubusercontent.com/aminulhr/aminulhr/output/github-snake.svg)
+
 
 
 
