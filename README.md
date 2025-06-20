@@ -7,14 +7,14 @@
 
 ## Welcome to my GitHub profile! 👋
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🙋‍♂️ About Me 
 - 🌱 I’m currently learning TypeScript, Express, Mongoose, Redis, Redux, Next.js, DBMS.
 - 👯 I’m looking to collaborate on innovative web development projects.
 - ⚡ Fun fact: I'm a huge fan of clean code, and I find debugging just as satisfying as solving a puzzle!
 
-- 
+  
 
 <h3 align="left">🚀 Explored Technologies</h3>
 <p>
